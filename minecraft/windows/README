@@ -1,0 +1,7 @@
+Compile the cpp files with G++ for windows (into same dir)
+make object files ( the vbs script assumes the file names 
+are the same as the source names, just with a suffix of .o)
+
+run vbs scripts (or C++ generated executable)
+
+there are 2 example vbs scripts in here (just as an alternative to typing more)
